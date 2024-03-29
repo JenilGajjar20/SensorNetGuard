@@ -1,6 +1,6 @@
 # SensorNetGuard Dataset Analysis
 
-This repository contains code related to identifying malicious sensor nodes using the SensorNetGuard Dataset. The code implements three models: **Long Short-Term Memory(LSTM), Gated Recurrent Unit(GRU) and Convolutional Neural Network (CNN)**. Additionally, various optimizers are applied to the model: **Adam, Nadam, Adagrad, RMSProp, Stochastic Gradient Descent(SGD)**.
+This repository contains code related to identifying malicious sensor nodes using the SensorNetGuard Dataset. The code implements three models: **Long Short-Term Memory(LSTM), Gated Recurrent Unit(GRU) and One-Dimensional Convolutional Neural Network (1D-CNN)**. Additionally, various optimizers are applied to the model: **Adam, Nadam, Adagrad, RMSProp, Stochastic Gradient Descent(SGD)**.
 
 ## Dataset Citation
 
